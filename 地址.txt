@@ -1,0 +1,12 @@
+Data:
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia (MUST DOWNLOAD, WILL BE USED IN CLASS)
+
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
+
+https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset?resource=download
+
+https://www.kaggle.com/datasets/andrewmvd/medical-mnist
+
+ 
